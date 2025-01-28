@@ -1,4 +1,4 @@
-# Cara Ecommerce Website
+# [Cara Ecommerce Website](caravista.netlify.app)
 
 Welcome to Cara - Your go-to destination for all your online shopping needs!
 
@@ -34,4 +34,4 @@ Cara is an ecommerce website designed to provide users with a seamless shopping 
 
 ## Usage
 
-To run the website locally, simply clone this repository and open the HTML files in your web browser. Alternatively, visit [caravista.netlify.app](https://caravista.netlify.app) for a live preview.
+To run the website locally, simply clone this repository and open the HTML files in your web browser. Alternatively, visit [Cara Website](https://caravista.netlify.app) for a live preview.
