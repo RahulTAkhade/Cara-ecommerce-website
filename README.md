@@ -34,4 +34,4 @@ Cara is an ecommerce website designed to provide users with a seamless shopping 
 
 ## Usage
 
-To run the website locally, simply clone this repository and open the HTML files in your web browser. Alternatively, visit [shoppieville.netlify.app](https://shoppieville.netlify.app) for a live preview.
+To run the website locally, simply clone this repository and open the HTML files in your web browser. Alternatively, visit [shoppieville.netlify.app](https://caravista.netlify.app) for a live preview.
