@@ -1,4 +1,4 @@
-# [Cara Ecommerce Website](caravista.netlify.app)
+# [Cara Ecommerce Website](https://caravista.netlify.app)
 
 Welcome to Cara - Your go-to destination for all your online shopping needs!
 
